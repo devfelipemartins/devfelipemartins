@@ -16,7 +16,7 @@
 - **Sistema de gestão de apólices de seguros:** aplicação web que automatiza o acompanhamento de apólices de seguro de frota de ponta a ponta — lê PDFs de múltiplas seguradoras, mantém a base atualizada em tempo real, organiza tudo em um dashboard com alertas de vencimento e permite exportar relatórios e disparar e-mails de renovação em poucos cliques. *(Python/Flask, Next.js, React, TypeScript, SQLite, Docker, Firebase Auth)*
 - **Site institucional — Reluz Escritório Contábil:** desenvolvimento do site institucional da empresa, reestruturado a partir do site antigo em uma versão moderna, responsiva e com foco em performance. *(Next.js App Router, React, TypeScript)*
 - **Sistema de Consulta Automatizada de Pagamentos de Impostos:** aplicação integrada à API Integra Contador (SERPRO) que automatiza a consulta de tributos (DARF/DAS) a partir do CNPJ, com upload de planilhas e relatórios consolidados em Excel. *(Python/Flask, Next.js, React, TypeScript, PostgreSQL, Docker, API REST SERPRO)*
-
+- **Sistema de gestão de frotas e vigências:** (órgãos de transporte): aplicação web que automatiza a consulta e o acompanhamento de veículos junto aos órgãos reguladores (ANTT, ARTESP, EMTU, SPTrans e CADASTUR) — usa robôs de automação para logar nos portais e extrair frota, situação e vencimentos, mantém a base atualizada em ciclos agendados, organiza tudo em dashboards de vigência com alertas e permite exportar relatórios (Excel/PDF) e disparar e-mails de renovação. (Python/Flask, Next.js, React, TypeScript, PostgreSQL, Selenium, Docker)
 ---
 
 ### 🧰 Conjunto de tecnologias:
