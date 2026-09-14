@@ -10,13 +10,14 @@
 
 ⭐ **Projetos em destaque:**
 
-- **[Sistema de apólices]:** breve descrição do que ele faz e para quem (ex: sistema de gestão para escritório de contabilidade com módulos fiscal, societário e pessoal).
-- **[Gestão de frotas]:** breve descrição (ex: integração de envio de e-mails via Microsoft Graph API para automação de rotinas do escritório).
+- **Sistema de apólices:** breve descrição do que ele faz e para quem (ex: sistema de gestão para escritório de contabilidade com módulos fiscal, societário e pessoal).
+- **Gestão de frotas:** breve descrição (ex: integração de envio de e-mails via Microsoft Graph API para automação de rotinas do escritório).
 
 ---
 
 ### 🧰 Conjunto de tecnologias:
 
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
