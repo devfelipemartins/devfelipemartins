@@ -36,4 +36,4 @@
 
 ---
 
-📫 Contato: [dev.felipemartins@gmail.com](mailto:seu-email@exemplo.com) · [LinkedIn](https://linkedin.com/in/devfelipemartins](https://www.linkedin.com/in/felipe-martins-686887266/))
+📫 Contato: [dev.felipemartins@gmail.com](mailto:seu-email@exemplo.com) · [LinkedIn](https://www.linkedin.com/in/felipe-martins-686887266/))
