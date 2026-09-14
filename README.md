@@ -37,12 +37,6 @@
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📊 Estatísticas do GitHub:
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=devfelipemartins&show_icons=true&theme=dark)](https://github.com/devfelipemartins)
-[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devfelipemartins&layout=compact&theme=dark)](https://github.com/devfelipemartins)
 
 ---
 
