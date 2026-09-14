@@ -4,7 +4,8 @@
 
 🏢 Atuo na **Reluz Contábil** como Auxiliar de Automação, desenvolvendo sistemas que automatizam processos internos e melhoram a experiência do usuário
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — USCS · Técnico em Desenvolvimento de Sistemas — Etec Rio Grande da Serra
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — USCS
+🎓 Técnico em Desenvolvimento de Sistemas — Etec Rio Grande da Serra
 
 📍 Ribeirão Pires, SP
 
