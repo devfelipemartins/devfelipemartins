@@ -29,11 +29,4 @@
 
 ---
 
-### 📊 Estatísticas do GitHub:
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)](https://github.com/SEU_USUARIO)
-[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)](https://github.com/SEU_USUARIO)
-
----
-
 📫 Contato: [dev.felipemartins@gmail.com](mailto:seu-email@exemplo.com) · [LinkedIn](https://www.linkedin.com/in/felipe-martins-686887266/))
