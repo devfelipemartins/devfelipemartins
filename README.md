@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Júnior Full Stack — back-end em **Python** e front-end em **React, Next.js e TypeScript**
 
-🏢 Atuo na **Reluz Contábil** como Auxiliar de Automação, desenvolvendo sistemas que automatizam processos internos e melhoram a experiência do usuário
+🏢 Atuo na **Reluz Contábil** como Assistente de Automação, desenvolvendo sistemas que automatizam processos internos e melhoram a experiência do usuário
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — USCS
 🎓 Técnico em Desenvolvimento de Sistemas — Etec Rio Grande da Serra
