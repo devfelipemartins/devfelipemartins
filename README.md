@@ -1,43 +1,46 @@
-### Olá, sou o Felipe Martins 👋
+<p align="center">
+  <img src="assets/hero.svg" alt="Felipe Martins — Desenvolvedor Fullstack" width="100%" />
+</p>
 
-💻 Desenvolvedor Júnior Full Stack — back-end em **Python** e front-end em **React, Next.js e TypeScript**
+## Projetos para explorar
 
-🏢 Atuo na **Reluz Contábil** como Analista de Automação, desenvolvendo sistemas que automatizam processos internos e melhoram a experiência do usuário
+<a href="https://devfelipemartins.com.br"><img src="assets/portfolio-card.svg" alt="Meu portfólio" width="100%" /></a>
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — USCS - 
-🎓 Técnico em Desenvolvimento de Sistemas — Etec Rio Grande da Serra
+<a href="https://www.linkedin.com/in/felipe-martins-686887266/"><img src="assets/terminal-card.svg" alt="Fale comigo" width="100%" /></a>
 
-📍 Ribeirão Pires, SP
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://devfelipemartins.com.br/#projetos"><b>Gestão de Frotas ↗</b></a><br />
+      <sub>Robôs que consultam ANTT, ARTESP, EMTU e SPTrans e alertam sobre vencimentos.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://devfelipemartins.com.br/#projetos"><b>Gestão de Apólices ↗</b></a><br />
+      <sub>Lê PDFs de várias seguradoras e entrega dashboard com alertas de renovação.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://devfelipemartins.com.br/#projetos"><b>Consulta Domínio ↗</b></a><br />
+      <sub>Painéis de horas por empresa e colaborador a partir do banco do ERP.</sub>
+    </td>
+  </tr>
+</table>
+
+## Ferramentas do meu dia a dia
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-0a0b10?style=for-the-badge&logo=python&logoColor=22d3ee&labelColor=0a0b10&color=262a3a" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-0a0b10?style=for-the-badge&logo=flask&logoColor=22d3ee&labelColor=0a0b10&color=262a3a" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0a0b10?style=for-the-badge&logo=nextdotjs&logoColor=6366f1&labelColor=0a0b10&color=262a3a" />
+  <img alt="React" src="https://img.shields.io/badge/React-0a0b10?style=for-the-badge&logo=react&logoColor=6366f1&labelColor=0a0b10&color=262a3a" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0a0b10?style=for-the-badge&logo=typescript&logoColor=6366f1&labelColor=0a0b10&color=262a3a" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0a0b10?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee&labelColor=0a0b10&color=262a3a" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0a0b10?style=for-the-badge&logo=postgresql&logoColor=a855f7&labelColor=0a0b10&color=262a3a" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0a0b10?style=for-the-badge&logo=sqlite&logoColor=a855f7&labelColor=0a0b10&color=262a3a" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0a0b10?style=for-the-badge&logo=docker&logoColor=a855f7&labelColor=0a0b10&color=262a3a" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-0a0b10?style=for-the-badge&logo=git&logoColor=a855f7&labelColor=0a0b10&color=262a3a" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-0a0b10?style=for-the-badge&logo=n8n&logoColor=22d3ee&labelColor=0a0b10&color=262a3a" />
+</p>
 
 ---
 
-⭐ **Projetos em destaque:**
-
-- **Sistema de gestão de apólices de seguros:** aplicação web que automatiza o acompanhamento de apólices de seguro de frota de ponta a ponta — lê PDFs de múltiplas seguradoras, mantém a base atualizada em tempo real, organiza tudo em um dashboard com alertas de vencimento e permite exportar relatórios e disparar e-mails de renovação em poucos cliques. *(Python/Flask, Next.js, React, TypeScript, SQLite, Docker, Firebase Auth)*
-- **Site institucional — Reluz Escritório Contábil:** desenvolvimento do site institucional da empresa, reestruturado a partir do site antigo em uma versão moderna, responsiva e com foco em performance. *(Next.js App Router, React, TypeScript)*
-- **Sistema de Consulta Automatizada de Pagamentos de Impostos:** aplicação integrada à API Integra Contador (SERPRO) que automatiza a consulta de tributos (DARF/DAS) a partir do CNPJ, com upload de planilhas e relatórios consolidados em Excel. *(Python/Flask, Next.js, React, TypeScript, PostgreSQL, Docker, API REST SERPRO)*
-- **Sistema de gestão de frotas e vigências:** aplicação web que automatiza a consulta e o acompanhamento de veículos junto aos órgãos reguladores (ANTT, ARTESP, EMTU, SPTrans e CADASTUR) — usa robôs de automação para logar nos portais e extrair frota, situação e vencimentos, mantém a base atualizada em ciclos agendados, organiza tudo em dashboards de vigência com alertas e permite exportar relatórios (Excel/PDF) e disparar e-mails de renovação. (Python/Flask, Next.js, React, TypeScript, PostgreSQL e Selenium)
----
-
-### 🧰 Conjunto de tecnologias:
-
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
----
-
-📫 Contato: [dev.felipemartins@gmail.com](mailto:dev.felipemartins@gmail.com) · [LinkedIn](https://www.linkedin.com/in/felipe-martins-686887266/)
+<sub>📍 Ribeirão Pires, SP · 🎓 ADS na USCS · 📫 <a href="mailto:dev.felipemartins@gmail.com">dev.felipemartins@gmail.com</a> · <a href="https://www.linkedin.com/in/felipe-martins-686887266/">LinkedIn</a></sub>
